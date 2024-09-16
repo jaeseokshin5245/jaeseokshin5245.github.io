@@ -1,0 +1,144 @@
+.banner_all{
+    font-family: 'Pretendard-Regular', sans-serif;
+    text-align: center;
+    position: relative;
+    width: 100%;
+    justify-content: center;
+    margin: 0 auto;
+}
+.banner_all h1{
+    margin: 0 auto;
+    font-size: 3em;
+    padding: 0.1em;
+}
+
+.banner_all h3{
+    margin: 0 auto;
+    font-size: 1.5em;
+    padding: 0.2em;
+    color: #AAAAAA;
+}
+.banner_all a {
+    color: #DD0000; 
+    text-decoration: none;
+}
+
+
+.banner_all a:visited {
+    color: #DD0000; 
+    text-decoration: none; 
+}
+
+.banner_all a:hover {
+    color: #FECD00; 
+    text-decoration: underline;
+    text-decoration: none;
+}
+
+.banner_all a:active {
+    color: #FECD00;
+    text-decoration: none;
+}
+.banner_inner_ty1 {
+    width: 100%;
+    height: 500px;
+    background-image: url('../img/subway.jpg');
+    background-size: cover;
+    background-position: 0% 50%;
+    background-repeat: no-repeat;
+
+    
+    font-family: 'Pretendard-Regular', sans-serif;
+    margin: 0 auto;
+    text-align: center;
+
+}
+
+.banner_inner_ty1 h3{
+    font-size: 3em;
+    padding: 0.3em;
+    margin: 0 auto;
+    text-align: left;
+    color: azure;
+    opacity: 1;
+}
+
+.banner_inner_ty1 p{
+    font-size: 1.5em;
+    padding: 0.6em;
+    margin: 0 auto;
+    text-align: left;
+    color: #DDDDDD;
+    font-weight: 500;
+    opacity: 1;
+}
+
+.banner_inner_ty1 a {
+    text-decoration: none;
+}
+
+.banner_inner_ty2 {
+    width: 100%;
+    height: 500px;
+    background-size: cover;
+    background-position: 0% 50%;
+    background-repeat: no-repeat;
+    background-image: url('../img/Res.png');
+    font-family: 'Pretendard-Regular', sans-serif;
+    margin: 0 auto;
+    text-align: center;
+}
+.banner_inner_ty2 h3{
+    font-size: 3em;
+    padding: 0.3em;
+    margin: 0 auto;
+    text-align: right;
+    color: #111111;
+    font-weight: 700;
+}
+
+.banner_inner_ty2 p{
+    font-size: 1.5em;
+    padding: 0.6em;
+    margin: 0 auto;
+    text-align: right;
+    color: #2D2D2D;
+    font-weight: 600;
+}
+
+.banner_inner_ty2 a {
+    text-decoration: none;
+}
+
+.banner_inner_ty3 {
+    width: 100%;
+    height: 500px;
+    background-size: cover;
+    background-position: 0% 50%;
+    background-repeat: no-repeat;
+    background-image: url('../img/cal.jpg');
+    font-family: 'Pretendard-Regular', sans-serif;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.banner_inner_ty3 h3{
+    font-size: 3em;
+    padding: 0.3em;
+    margin: 0 auto;
+    text-align: left;
+    color: #111111;
+}
+
+.banner_inner_ty3 p{
+    font-size: 1.5em;
+    padding: 0.6em;
+    margin: 0 auto;
+    text-align: left;
+    color: #2D2D2D;
+    font-weight: 600;
+}
+
+.banner_inner_ty3 a {
+    text-decoration: none;
+}

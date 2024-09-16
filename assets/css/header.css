@@ -1,0 +1,18 @@
+
+.header_menu {
+    font-family: 'Pretendard-Regular', sans-serif;
+    list-style: none;         /* Remove bullet points */
+    padding: 0;               /* Remove padding */
+    margin: 0;                /* Remove margin */
+    text-align: center;       /* Center the list if desired */
+}
+
+.header_menu li {
+    display: inline-block;    /* Make the list items appear in a row */
+    margin-right: 24px;       /* Optional: Add spacing between the list items */
+    
+}
+
+.header_menu a {
+    text-decoration: none;    /* Remove underline from links */
+}
